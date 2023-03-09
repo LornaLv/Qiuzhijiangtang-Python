@@ -7,11 +7,11 @@ import shutil
 # os.mkdir('testcj') # 创建文件夹
 # os.rmdir('testcj')  # 删除文件夹
 # medir只能创建一级目录
-# os.mkdir('/home/lvshaolin/桌面/Python/求知讲堂Python/day10-文件读写/lsl/3')  # 不允许创建多级
-# os.makedirs('/home/lvshaolin/桌面/Python/求知讲堂Python/day10-文件读写/xl/1/2/3/4')  # 允许多级创建
-# os.rmdir('/home/lvshaolin/桌面/Python/求知讲堂Python/day10-文件读写/xl/1/2/3/4')  # rmdir只能删除空目录
+# os.mkdir('/home/lvshaolin/桌面/Python/求知讲堂Python/day11-文件读写/lsl/3')  # 不允许创建多级
+# os.makedirs('/home/lvshaolin/桌面/Python/求知讲堂Python/day11-文件读写/xl/1/2/3/4')  # 允许多级创建
+# os.rmdir('/home/lvshaolin/桌面/Python/求知讲堂Python/day11-文件读写/xl/1/2/3/4')  # rmdir只能删除空目录
 # 如果要删除非空目录 就需要调用shutil模块
-# shutil.rmtree('/home/lvshaolin/桌面/Python/求知讲堂Python/day10-文件读写/lsl')
+# shutil.rmtree('/home/lvshaolin/桌面/Python/求知讲堂Python/day11-文件读写/lsl')
 
 # 获取当前目录
 print(os.getcwd())
