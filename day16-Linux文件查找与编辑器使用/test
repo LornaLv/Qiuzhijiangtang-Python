@@ -1,0 +1,20 @@
+总用量 24
+drwxrwxr-x  5 lvshaolin lvshaolin 4096 3月  17 18:18 ./
+drwxrwxr-x 17 lvshaolin lvshaolin 4096 3月  17 15:29 ../
+drwxrwxr-x  2 lvshaolin lvshaolin 4096 3月  17 15:30 a/
+drwxrwxr-x  2 lvshaolin lvshaolin 4096 3月  17 15:31 b/
+drwxrwxr-x  2 lvshaolin lvshaolin 4096 3月  17 15:31 c/
+-rw-rw-r--  1 lvshaolin lvshaolin    0 3月  17 20:01 test
+-rw-rw-r--  1 lvshaolin lvshaolin   90 3月  17 18:18 Testindex
+总用量 28
+drwxrwxr-x  5 lvshaolin lvshaolin 4096 3月  17 18:18 ./
+drwxrwxr-x 17 lvshaolin lvshaolin 4096 3月  17 15:29 ../
+drwxrwxr-x  2 lvshaolin lvshaolin 4096 3月  17 15:30 a/
+drwxrwxr-x  2 lvshaolin lvshaolin 4096 3月  17 15:31 b/
+drwxrwxr-x  2 lvshaolin lvshaolin 4096 3月  17 15:31 c/
+-rw-rw-r--  1 lvshaolin lvshaolin  422 3月  17 20:01 test
+-rw-rw-r--  1 lvshaolin lvshaolin   90 3月  17 18:18 Testindex
+我是来学习命令的，我非常喜欢Python
+I like apple， I like Python
+
+我是第二次进来的，我看我的数据能不能保存
